@@ -1,0 +1,13 @@
+import { View, Text, StyleSheet } from 'react-native';
+
+
+export default StyleSheet.create({
+    bodyText:{
+        fontFamily:'open-sans',
+        color: 'red'
+    },
+    title: {
+         fontFamily:'open-sans',
+            fontSize: 18
+    }
+});
